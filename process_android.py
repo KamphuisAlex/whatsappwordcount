@@ -1,5 +1,5 @@
 # open chat file
-f = open('vgchat.txt', 'r')
+f = open('chat.txt', 'r')
 
 # place to store all lists
 msgs = []  # list of all messages
